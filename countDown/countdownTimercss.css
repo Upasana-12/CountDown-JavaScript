@@ -1,0 +1,28 @@
+#ip, #ip1
+{
+	height: 63px;
+    width: 113px;
+     background: #190802;
+    color: #e0d4d4;
+    border: 2px solid #56a1c5;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 40px;
+	box-shadow: 4px 4px 4px black;
+}
+
+#start, #pause, #reset
+{
+	font-size: 35px;
+	height: 65px;
+	width: 181px;
+	border: 2px solid #1b2661;
+    border-radius: 6px;
+	background: #7f6c6c;
+    color: #d6c7c2;
+}
+
+#ip:focus, #ip1:focus
+{
+	outline: 0;
+}
